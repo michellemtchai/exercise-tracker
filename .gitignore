@@ -1,0 +1,10 @@
+.replit
+.replit*
+.cache
+.config
+.upm
+node_modules
+.hyperdev-assets
+replit*
+Thumbs.db
+desktop.ini
